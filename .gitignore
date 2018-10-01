@@ -1,0 +1,5 @@
+*.pyc
+*.log
+nohup.out
+db.sqlite3
+ffxivbot/migrations
